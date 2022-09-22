@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+ProjectNorthwind/bin/
+ProjectNorthwind/obj/
+ProjectNorthwind/Properties/
+SchoolFall2022/bin/
+SchoolFall2022/obj/
+SchoolFall2022/Properties/
