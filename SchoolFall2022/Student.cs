@@ -1,5 +1,5 @@
-﻿// Written by John
-// 08/24/2022
+﻿//Written by Rogan Helm
+//8/24/2022
 
 using System;
 using System.Collections.Generic;

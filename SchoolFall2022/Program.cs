@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Written by Rogan Helm
+//8/24/2022
 
 using SchoolFall2022;
 List<Student> aListOfStudents = new List<Student>();
