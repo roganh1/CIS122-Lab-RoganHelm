@@ -1,0 +1,15 @@
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\bin\Debug\net6.0\Conversion.exe
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\bin\Debug\net6.0\Conversion.deps.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\bin\Debug\net6.0\Conversion.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\bin\Debug\net6.0\Conversion.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\refint\Conversion.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Conversion\obj\Debug\net6.0\ref\Conversion.dll
