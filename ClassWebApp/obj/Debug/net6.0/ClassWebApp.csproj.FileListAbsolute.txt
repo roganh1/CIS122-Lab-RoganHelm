@@ -1,0 +1,8 @@
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.csproj.AssemblyReference.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.AssemblyInfoInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.AssemblyInfo.cs
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.RazorAssemblyInfo.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ClassWebApp\obj\Debug\net6.0\ClassWebApp.RazorAssemblyInfo.cs

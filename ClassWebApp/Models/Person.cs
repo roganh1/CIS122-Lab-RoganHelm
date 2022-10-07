@@ -1,5 +1,5 @@
-﻿//Written by Rogan Helm
-//8/24/2022
+﻿// Written by Rogan Helm
+// 10/7/22
 
 using System;
 using System.Collections.Generic;
@@ -7,14 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-double temperatureFahrenheit = 0.0;
-double temperatureCelsius = 0.0;
-
-Console.WriteLine("Please enter the temperature in degrees Fahrenheit: ");
-temperatureFahrenheit = Convert.ToDouble(Console.ReadLine());
-temperatureCelsius = (temperatureFahrenheit - 32.0) * 5 / 9;
-Console.WriteLine(temperatureFahrenheit + " degrees Fahrenheit equals " + temperatureCelsius + " degrees Celsius");
-namespace SchoolFall2022
+namespace ClassWebApp.Models
 {
     public class Student : Person
     {
@@ -150,13 +143,3 @@ namespace SchoolFall2022
         }
     }
 }
-/*private vars
-public gets & sets
-logic
-readonly or writeonly property gets and doesnt set or sets and doesnt get
-constructors
-for each loops
-if statements
-loops
-one problem
-build class with 3-4 properties*/
