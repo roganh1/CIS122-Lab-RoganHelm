@@ -16,7 +16,7 @@ namespace lists
 {
     /*public class Calculate
     {
-        public int TargetNumber = 5;
+        public int TargetNumber = 5; // Couldn't focus, didn't have a clue
         public List<int> Numbers = new List<int> { 1, 20, 5, 6, 12, 30, 4, 6 };
     }*/
     public class FindNumbers
