@@ -1,4 +1,6 @@
-﻿using Convert = Conversion.Convert;
+﻿// Written by Rogan Helm
+
+using Convert = Conversion.Convert;
 
 double degreesF1 = 32.0;
 double degreesC1 = 0.0;
