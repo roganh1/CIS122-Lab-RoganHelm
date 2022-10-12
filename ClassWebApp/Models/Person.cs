@@ -131,15 +131,11 @@ namespace ClassWebApp.Models
             message = message + "Social Security Number: " + this.SocialSecurityNum + "\n";
             return message;
         }
-    }
-    public class Conversion
-    {
-        private double celsius = 26;
-        private double fahrenheit = 0;
-        public int Fahrenheit
+
+        public override string DropClass()
         {
-            get { return (int)this.fahrenheit; }
-            set { this.fahrenheit = (double)((this.celsius * 1.8) + 32); }
+            throw new NotImplementedException();
         }
     }
+
 }
