@@ -7,13 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-double temperatureFahrenheit = 0.0;
-double temperatureCelsius = 0.0;
-
-Console.WriteLine("Please enter the temperature in degrees Fahrenheit: ");
-temperatureFahrenheit = Convert.ToDouble(Console.ReadLine());
-temperatureCelsius = (temperatureFahrenheit - 32.0) * 5 / 9;
-Console.WriteLine(temperatureFahrenheit + " degrees Fahrenheit equals " + temperatureCelsius + " degrees Celsius");
 namespace SchoolFall2022
 {
     public class Student : Person

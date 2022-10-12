@@ -1,0 +1,16 @@
+﻿<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>FirstName</th>
+        <th>LastName</th>
+    </tr>
+
+@foreach(var p in ViewBag.ListOfPeople)
+{
+    <tr>
+        <td>@p.Id</td>
+        <td>@p.FirstName</td>
+        <td>@p.LastName</td>
+    </tr>
+}
+</table>
