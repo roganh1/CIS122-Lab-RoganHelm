@@ -16,13 +16,20 @@ namespace OpenACSVFile.Models
             int index = 1;
             string[] aRow;
             Person aPerson;
-            allRows = File.ReadAllLines(aPath);
-            while (index < allRows.Length)
+            try
             {
-                aRow = allRows[index].Split(',');
-                aPerson = new Person(Convert.ToInt32(aRow[0]), aRow[1], aRow[2]);
-                aListOfPeople.Add(aPerson);
-                index++;
+                allRows = File.ReadAllLines(aPath);
+                while (index < allRows.Length)
+                {
+                    aRow = allRows[index].Split(',');
+                    aPerson = new Person(Convert.ToInt32(aRow[0]), aRow[1], aRow[2]);
+                    aListOfPeople.Add(aPerson);
+                    index++;
+                }
+            }
+            catch ()
+            {
+                Console.WriteLine("aaaaaaaaaaaa");
             }
             return aListOfPeople;
         }

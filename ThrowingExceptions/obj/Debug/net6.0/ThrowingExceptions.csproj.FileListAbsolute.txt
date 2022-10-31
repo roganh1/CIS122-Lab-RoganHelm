@@ -1,0 +1,15 @@
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.exe
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.deps.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.runtimeconfig.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\bin\Debug\net6.0\ThrowingExceptions.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.csproj.AssemblyReference.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.AssemblyInfoInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.AssemblyInfo.cs
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\refint\ThrowingExceptions.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ThrowingExceptions.genruntimeconfig.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\ThrowingExceptions\obj\Debug\net6.0\ref\ThrowingExceptions.dll

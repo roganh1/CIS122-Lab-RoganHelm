@@ -1,0 +1,16 @@
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.exe.config
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.exe
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.pdb
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.AssemblyReference.cache
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.CoreCompileInputs.cache
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.exe
+C:\Users\beard\source\repos\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.exe.config
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.exe
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\bin\Debug\HalloweenProject.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.AssemblyReference.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.exe
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\HalloweenProject\HalloweenProject\obj\Debug\HalloweenProject.pdb
