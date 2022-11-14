@@ -1,0 +1,15 @@
+C:\Users\wacky\source\repos\InClassProject\bin\Debug\net6.0\InClassProject.exe
+C:\Users\wacky\source\repos\InClassProject\bin\Debug\net6.0\InClassProject.deps.json
+C:\Users\wacky\source\repos\InClassProject\bin\Debug\net6.0\InClassProject.runtimeconfig.json
+C:\Users\wacky\source\repos\InClassProject\bin\Debug\net6.0\InClassProject.dll
+C:\Users\wacky\source\repos\InClassProject\bin\Debug\net6.0\InClassProject.pdb
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.csproj.AssemblyReference.cache
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.AssemblyInfoInputs.cache
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.AssemblyInfo.cs
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.csproj.CoreCompileInputs.cache
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.dll
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\refint\InClassProject.dll
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.pdb
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\InClassProject.genruntimeconfig.cache
+C:\Users\wacky\source\repos\InClassProject\obj\Debug\net6.0\ref\InClassProject.dll

@@ -1,0 +1,15 @@
+C:\Users\wacky\source\repos\PracticeProblems1\bin\Debug\net6.0\PracticeProblems1.exe
+C:\Users\wacky\source\repos\PracticeProblems1\bin\Debug\net6.0\PracticeProblems1.deps.json
+C:\Users\wacky\source\repos\PracticeProblems1\bin\Debug\net6.0\PracticeProblems1.runtimeconfig.json
+C:\Users\wacky\source\repos\PracticeProblems1\bin\Debug\net6.0\PracticeProblems1.dll
+C:\Users\wacky\source\repos\PracticeProblems1\bin\Debug\net6.0\PracticeProblems1.pdb
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.csproj.AssemblyReference.cache
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.AssemblyInfoInputs.cache
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.AssemblyInfo.cs
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.csproj.CoreCompileInputs.cache
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.dll
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\refint\PracticeProblems1.dll
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.pdb
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\PracticeProblems1.genruntimeconfig.cache
+C:\Users\wacky\source\repos\PracticeProblems1\obj\Debug\net6.0\ref\PracticeProblems1.dll
