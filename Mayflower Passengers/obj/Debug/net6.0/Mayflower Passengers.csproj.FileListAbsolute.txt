@@ -1,0 +1,15 @@
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.csproj.AssemblyReference.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.AssemblyInfoInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.AssemblyInfo.cs
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\bin\Debug\net6.0\Mayflower Passengers.exe
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\bin\Debug\net6.0\Mayflower Passengers.deps.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\bin\Debug\net6.0\Mayflower Passengers.runtimeconfig.json
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\bin\Debug\net6.0\Mayflower Passengers.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\bin\Debug\net6.0\Mayflower Passengers.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\refint\Mayflower Passengers.dll
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.pdb
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\Mayflower Passengers.genruntimeconfig.cache
+C:\Users\wacky\Documents\GitHub\CIS122-Lab-RoganHelm\Mayflower Passengers\obj\Debug\net6.0\ref\Mayflower Passengers.dll
