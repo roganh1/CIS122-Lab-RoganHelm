@@ -23,15 +23,21 @@ namespace InClass11_28
         }
 
         public ProductCatalog() { }
-        public ProductCatalog(string aName)
+        public ProductCatalog(Product aProduct)
         {
-            Product aProduct = new Product();
             Products.Add(aProduct);
         }
 
         public void AddProduct(Product aProduct)
         {
-            this.products.Add(aProduct);
+            Products.Add(aProduct);
+        }
+
+        public override string ToString()
+        {
+            string message = string.Empty;
+            message = message + Products + "/n";
+            return message;
         }
     }
 }
